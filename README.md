@@ -1,6 +1,6 @@
 # Discord Webhook Tool
 
-I made this because I saw way too many **skids** trying to rat and info-log people with sketchy webhooks. This tool helps you manage, test, and mess with Discord webhooks **properly**—no shady nonsense.  
+I made this because I saw way too many **skids** trying to rat and info-log people with sketchy webhook tools. This tool helps you manage, test, and mess with Discord webhooks **properly**—no shady nonsense.  
 
 ### 🚀 Features:  
 ✅ **Validate** if a webhook is active or deleted  
