@@ -1,0 +1,2 @@
+download and install Python 3.7+ to PATH
+pip install requests colorama
